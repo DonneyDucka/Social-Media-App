@@ -1,0 +1,45 @@
+{
+  "name": "todo-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.4.3",
+    "@material-ui/icons": "^4.4.3",
+    "axios": "^0.18.1",
+    "formik": "^1.5.1",
+    "google-maps-react": "^2.0.2",
+    "markdown-to-jsx": "^6.10.3",
+    "moment": "^2.24.0",
+    "node": "^12.7.0",
+    "query-string": "^6.8.3",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "react-file-base64": "^1.0.3",
+    "react-google-maps": "^9.4.5",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^2.1.8",
+    "cross-env": "^5.2.0",
+    "react-timestamp": "^5.1.0"
+  },
+  "scripts": {
+    "start": "PORT=8080 react-scripts start --host 0.0.0.0",
+    "build": "react-scripts build",
+    "test": "cross-env CI=true react-scripts test --watchAll=false",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "cross-env": "^5.2.0",
+    "enzyme": "^3.10.0",
+    "enzyme-adapter-react-16": "^1.15.1",
+    "jest-enzyme": "^7.1.1"
+  }
+}
