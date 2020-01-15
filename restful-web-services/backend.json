@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "inseption-backend",
+  "private_key_id": "c47893399259f68387c0437933384db02778af50",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCsQEH3Eb6X4NMf\n6Bdm6IFd95Y7fSgCtF8Myg1GMQIXk7f2Q2yX4e6ci2ozlrV6EpVHiqDDjFzQhVFB\nXEnToC56c1xHSgWXGepBwy47Kc2tW5Z9i1envZmWm/hAy0E6mSOeSBiFiIHZ/kAV\nAXmiSF48jb2feWyBXmtl8wPEyJX6tb5mwtFIQkDifwVn0vlAbUZdflk3tVPGhqYD\nwdD1n3SVPXI4x5c1ml2bwlA/5H7moMVfkMZM14tYPSLSG7f/70ywKDIeDhn58bc/\nhoVGRCcpPWfNj83JbaFwP+uv2O93Xxpn+LTUwsS82wTgRo9koOLlFTQ/PSVs1NpY\nFjlJov4FAgMBAAECggEAFFDB1vODUKNmEynK9MqwU1ZbpCmHOgZu/XGpLiGilwhH\nlqZuHN27SEBTJsF8JukhLR5nBpk76yYGJtjNJkYKpUuM0yWiUiduzxHHlpfAF9Wp\nAqaYEIMWpcJAfdfbGh+sqULkjX9DnWPUyAV0BJVXc/ndpvzptLpfnVcTlzZ3Jenu\n6vZ3fdyI9ycyRpIrYGIvqMWn7yx0/TA8XoGmcpeH7YQx8mlDNqvCDBt+3a3KvOPk\nT6JFq5XuWh8DqDE0y+2Lh1LXUKCTKkEyFYrfTKLvcN+lJzq3cQ4DUSsPsVFlnk+e\nh2q363im8Qdc33lPhGely1eNaVRxnSuHYvNkIe97UQKBgQDe9rQfZk+TsyHj9iaF\nVaaglJYAMRsaiPM5OZj9T7XEois29kQkfH28WZhTg7d+hILNEHpIDF24fOlNyaPm\nNaGIa4JQMuMe9AFUJPPeawUnH9GjgEDMh5w+l843B6/VemXUH5JE7THgWnmOMRwR\nOHh6WHNq51Z5vD7JP6TX/GYXHQKBgQDFxfUk9pjpLOhV9pofaPXogZLTT1qUESNc\nqzmSA1g9onyMJs1Aao1tz6rOzv/LrvvmRjm9O+bn75FxROqUh9ZjNvlKUEDc9Lzk\nHUYIwiqlOnw1vd7r73vCSnrZ9C8qIJHYtFzatbfcTAw/3BZGArgs1aZZQMnGg1s1\n/d8euE+GCQKBgDVU1WjdVBOEOYsJidVC04R9hhOtq0oBkAwUFuAgfN333FZdOZdw\nn7K5y5HOY8nDcHYUhutM6e4DEtskbCvYkDbNYHJGecUhoF+8JwkAmE7vcXmmZ9mE\nZn8iWJUZJZnumQTQOHB8O/3qJkE4xfnohAjft1vO0gR0XqBMtOVk3haRAoGAcZ1c\nTCTCCUo8Go41UhAJHM27HFt87Iy/5M+UnhX/zkCXDiiIRxYvM0NWm8H83vUiTtJO\n/y/3YYyV4B04KaWzeoGtSoy6BnUuQlmyzvtEZnEnw/PUqXOFhEMnOih2I9xcDMLo\niNhVzF9/tfvoa8XKKi9+hc2bXMg/UNAMKmi1fokCgYBepnb6zhLj1dKxjpwW18hG\nZ2IxcFLEHa4Nyw0tKlakdEZP5JnVMXpkrZAuIlHZban6q+uCTbyYIcUddH27GEmb\n5NUzHAG7s2PzzC2irWMof46+5raBbZTXqzU6I+fl1E3av2YNpq6DwUU8i/POtxMG\nGSDMH02oHysC1pG+tA1hgA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "inseption-backend@appspot.gserviceaccount.com",
+  "client_id": "112905428103295730953",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/inseption-backend%40appspot.gserviceaccount.com"
+}
