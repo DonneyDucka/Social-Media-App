@@ -5,7 +5,7 @@
   "dependencies": {
     "@material-ui/core": "^4.4.3",
     "@material-ui/icons": "^4.4.3",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "formik": "^1.5.1",
     "google-maps-react": "^2.0.2",
     "markdown-to-jsx": "^6.10.3",
